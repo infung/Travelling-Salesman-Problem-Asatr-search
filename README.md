@@ -1,4 +1,4 @@
-# Travelling-Salesman-Problem-Asatr-search
+# Travelling-Salesman-Problem-Astar-search
 
 •	States: (<city id 1>, …), list of cities traveled so far <br>
 •	Start state: (<city id 1>) only visited the first city <br>
